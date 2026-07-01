@@ -140,7 +140,7 @@ The interactive dashboard contains 5 visuals:
 
 ## 📦 Dataset
 
-- **Source:** [Kaggle — Sample Superstore Dataset](https://www.kaggle.com/)
+- **Source:** [Kaggle — Sample Superstore Dataset[]](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
 - **Records:** 9,994 transactions
 - **Columns:** 13 fields (Ship Mode, Segment, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit, and more)
 
